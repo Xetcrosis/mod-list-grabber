@@ -11,7 +11,7 @@ def parse_file(file):  # -> tuple[list, list]:
         file_name = line[0:fileN_idx]
         link_idx += 7
         link = line[link_idx:]
-        if link[0] == 'h':
+        if link[0] == 'h' and link[1] == 't':
             link_list.append(link[:-2])
         else:
             non_link_list.append(file_name)
@@ -24,4 +24,7 @@ file = open(file_location, 'r')
 
 links_tuple = parse_file(file)
 
-print(links_tuple)
+for lis in links_tuple:
+    print("-------------------------------")
+    for link in lis:
+        print(link)
