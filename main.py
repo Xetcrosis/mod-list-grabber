@@ -18,13 +18,17 @@ def parse_file(file):  # -> tuple[list, list]:
     return (link_list, non_link_list)
 
 
+def display_tuple(tuple):
+    for lis in links_tuple:
+        print("-------------------------------")
+        for link in lis:
+            print(link)
+
+
 file_location = input("Enter the txt file to load: ")
 
 file = open(file_location, 'r')
 
 links_tuple = parse_file(file)
 
-for lis in links_tuple:
-    print("-------------------------------")
-    for link in lis:
-        print(link)
+display_tuple(links_tuple)
