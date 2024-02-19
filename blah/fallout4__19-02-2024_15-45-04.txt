@@ -1,0 +1,110 @@
+[Mod] 10 Colors Standalone-2613-2-1 [Filename] 10 Colors Standalone-2613-2-1.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/2613/
+[Mod] Ambient Wasteland-25343-0-1 [Filename] Ambient Wasteland-25343-0-1.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/25343/
+[Mod] Autosave Every 10 Minutes-12889-2 [Filename] Autosave Every 10 Minutes-12889-2.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/12889/
+[Mod] Be Exceptional - Skills and Perks-28222-0-97d [Filename] Be Exceptional - Skills and Perks-28222-0-97d.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/28222/
+[Mod] Beast Master v1.4-14265-1-4 [Filename] Beast Master v1.4-14265-1-4.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/14265/
+[Mod] Caliente's Beautiful Bodies Enhancer - v2.6.3-15-2-6-3-1587299180 [Filename] Caliente's Beautiful Bodies Enhancer - v2.6.3-15-2-6-3-1587299180.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/15/
+[Mod] Casio W59 - 1.2-55422-1-2-1671790208 [Filename] Casio W59 - 1.2-55422-1-2-1671790208.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/55422/
+[Mod] Chestnut Lodge-25033-1-0 [Filename] Chestnut Lodge-25033-1-0.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/25033/
+[Mod] Clock Widget-26759-v1-4-0 [Filename] Clock Widget-26759-v1-4-0.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/26759/
+[Mod] Coloured Version - 8k Resolution-8989-1-0 [Filename] Coloured Version - 8k Resolution-8989-1-0.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/8989/
+[Mod] Combined Arms - 1.0-50505-1-0-1622547579 [Filename] Combined Arms - 1.0-50505-1-0-1622547579.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/50505/
+[Mod] Couple More Deathclaws-55344-1-0-1635384795 [Filename] Couple More Deathclaws-55344-1-0-1635384795.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/55344/
+[Mod] Crafting Fury 9000 GTX-10758-2-0 [Filename] Crafting Fury 9000 GTX-10758-2-0.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/10758/
+[Mod] Deadlier Deathclaws-13822-3-3-5 [Filename] Deadlier Deathclaws-13822-3-3-5.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/13822/
+[Mod] Deadly Predators - Faster Apex-6289-1 [Filename] Deadly Predators - Faster Apex-6289-1.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/6289/
+[Mod] Default UI Size-65677-2-0-1689619461 [Filename] Default UI Size-65677-2-0-1689619461.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/65677/
+[Mod] Deft Hands - FOMod Installer-43834-1-2-0-1585076097 [Filename] Deft Hands - FOMod Installer-43834-1-2-0-1585076097.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/43834/
+[Mod] Depravity-35513-1-0-1593666667 [Filename] Depravity-35513-1-0-1593666667.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/35513/
+[Mod] Diary of a Madman-45546-1-0-1592525627 [Filename] Diary of a Madman-45546-1-0-1592525627.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/45546/
+[Mod] ESP fix - Enables mesh fix for all Red Rockets (NukaWorld version)-10337-1-61 [Filename] ESP fix - Enables mesh fix for all Red Rockets (NukaWorld version)-10337-1-61.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/10337/
+[Mod] Endless Warfare-17626-1-3 [Filename] Endless Warfare-17626-1-3.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/17626/
+[Mod] Enhanced Creatures AI Overhaul-78179-1-5-0-1707961681 [Filename] Enhanced Creatures AI Overhaul-78179-1-5-0-1707961681.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/78179/
+[Mod] Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721 [Filename] Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/27216/
+[Mod] FCO - HD Eyes-169-1-0 [Filename] FCO - HD Eyes-169-1-0.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/169/
+[Mod] FallUI - Confirm Boxes-48958-2-2-3-1667318727 [Filename] FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/48958/
+[Mod] FallUI - HUD-51813-1-7-1-1668637124 [Filename] FallUI - HUD-51813-1-7-1-1668637124.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/51813/
+[Mod] FallUI - Inventory-48758-2-2-1-1666954336 [Filename] FallUI - Inventory-48758-2-2-1-1666954336.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/48758/
+[Mod] FallUI - Map-49920-2-1-1652891829 [Filename] FallUI - Map-49920-2-1-1652891829.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/49920/
+[Mod] FallUI - Sleep And Wait-49070-1-4-1668288607 [Filename] FallUI - Sleep And Wait-49070-1-4-1668288607.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/49070/
+[Mod] FallUI - Workbench-49300-1-4-1-r2-1667395902 [Filename] FallUI - Workbench-49300-1-4-1-r2-1667395902.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/49300/
+[Mod] Fallout 3 layout for FallUI - HUD-52549-1-2-1667187585 [Filename] Fallout 3 layout for FallUI - HUD-52549-1-2-1667187585.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/52549/
+[Mod] Fallout 4 Scopes Framework-30644-v1-4-1 [Filename] Fallout 4 Scopes Framework-30644-v1-4-1.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/30644/
+[Mod] Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782 [Filename] Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z [state] installed
+[Mod] Floating Damage-28684-v1-2-0 [Filename] Floating Damage-28684-v1-2-0.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/28684/
+[Mod] Goodneighbor Apartment 1.2a-13609-1-2a [Filename] Goodneighbor Apartment 1.2a-13609-1-2a.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/13609/
+[Mod] Green Commonwealth 1.5.1-11623-v1-5-1 [Filename] Green Commonwealth 1.5.1-11623-v1-5-1.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/11623/
+[Mod] HD Textures-68187-1-2-1695256924 [Filename] HD Textures-68187-1-2-1695256924.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/68187/
+[Mod] HK USP .45(New) With Tactical Knife-42805-1-67-1641710068 [Filename] HK USP .45(New) With Tactical Knife-42805-1-67-1641710068.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/42805/
+[Mod] HN66nXAZOMN_FO4_DistinctiveTeeth_V1-20946-1-00 [Filename] HN66nXAZOMN_FO4_DistinctiveTeeth_V1-20946-1-00.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/20946/
+[Mod] HUDFramework 1.0f-20309-1-0f [Filename] HUDFramework 1.0f-20309-1-0f.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/20309/
+[Mod] HoloTime 1.1b-20300-1-1b [Filename] HoloTime 1.1b-20300-1-1b.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/20300/
+[Mod] Immersive Animation Framework-50555-1-3-2-1671826855 [Filename] Immersive Animation Framework-50555-1-3-2-1671826855.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/50555/
+[Mod] K-9 Harness - Tactical Body Armor for Dogmeat-17686-1-1-1571208908 [Filename] K-9 Harness - Tactical Body Armor for Dogmeat-17686-1-1-1571208908.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/17686/
+[Mod] Kirs freckels-9556-1-0 [Filename] Kirs freckels-9556-1-0.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/9556/
+[Mod] Long Loading Fix-73469-1-0-1691162777 [Filename] Long Loading Fix-73469-1-0-1691162777.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/73469/
+[Mod] Looks Menu Customization Compendium-24830-v10 [Filename] Looks Menu Customization Compendium-24830-v10.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/24830/
+[Mod] LooksMenu v1-6-20-12631-1-6-20-1604483725 [Filename] LooksMenu v1-6-20-12631-1-6-20-1604483725.7z [state] installed
+[Mod] LooksMirror v1-0-1-13627-1-0-1 [Filename] LooksMirror v1-0-1-13627-1-0-1.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/13627/
+[Mod] Machineguns Rebirth v1.1c ESP version-53660-v1-1c-1639870459 [Filename] Machineguns Rebirth v1.1c ESP version-53660-v1-1c-1639870459.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/53660/
+[Mod] McMillan CS5 Base v2.0-27739-2-0 [Filename] McMillan CS5 Base v2.0-27739-2-0.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/27739/
+[Mod] Metal Pipe Sound on Weapon Drop-71963-1-0-69-1686145902 [Filename] Metal Pipe Sound on Weapon Drop-71963-1-0-69-1686145902.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/71963/
+[Mod] Miniguns Rebirth v1.1b Main File ESL version-49721-v1-1b-1627466610 [Filename] Miniguns Rebirth v1.1b Main File ESL version-49721-v1-1b-1627466610.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/49721/
+[Mod] Mod Configuration Menu 1.39-21497-1-39-1575706632 [Filename] Mod Configuration Menu 1.39-21497-1-39-1575706632.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/21497/
+[Mod] Modernized Ranger Helmet-71788-1-0-1685570016 [Filename] Modernized Ranger Helmet-71788-1-0-1685570016.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/71788/
+[Mod] More Realistic Handmade Pipe Weapons - DARKER-3181-1-0 [Filename] More Realistic Handmade Pipe Weapons - DARKER-3181-1-0.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/3181/
+[Mod] Mutant Menagerie - Main Files-68187-1-21-1703244394 [Filename] Mutant Menagerie - Main Files-68187-1-21-1703244394.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/68187/
+[Mod] NWIA - Assault Rifle Idle C-78555-1-0-1707560067 [Filename] NWIA - Assault Rifle Idle C-78555-1-0-1707560067.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/78555/
+[Mod] NWIA - Pistol Idle A-78555-1-0-1707544876 [Filename] NWIA - Pistol Idle A-78555-1-0-1707544876.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/78555/
+[Mod] Nameplates v1-1-13-21636-1-1-13-1575863350 [Filename] Nameplates v1-1-13-21636-1-1-13-1575863350.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/21636/
+[Mod] Nexus PMC 3.0-41332-3-0-1583059749 [Filename] Nexus PMC 3.0-41332-3-0-1583059749.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/41332/
+[Mod] No Pump Version - All Red Rockets-10337-1-65 [Filename] No Pump Version - All Red Rockets-10337-1-65.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/10337/
+[Mod] OCDecorator - Ver1.1.3-4270-1-1-3 [Filename] OCDecorator - Ver1.1.3-4270-1-1-3.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/4270/
+[Mod] Officer's revolver ENG-28308-1-2-2 [Filename] Officer's revolver ENG-28308-1-2-2.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/28308/
+[Mod] Ops-Core FAST Helmet - Archived v1.01 (4K Version)-52350-1-01-1623007737 [Filename] Ops-Core FAST Helmet - Archived v1.01 (4K Version)-52350-1-01-1623007737.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/52350/
+[Mod] Outcasts and Remnants-21469-1-51-1590968168 [Filename] Outcasts and Remnants-21469-1-51-1590968168.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/21469/
+[Mod] PMC Operators Pack 2K-66809-1-0-1670612654 [Filename] PMC Operators Pack 2K-66809-1-0-1670612654.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/66809/
+[Mod] PRIME -HI Tech Power Armor Sound Rework--52610-1-2-1-1636898948 [Filename] PRIME -HI Tech Power Armor Sound Rework--52610-1-2-1-1636898948.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/52610/
+[Mod] Place (Fallout4 1.10.163 - latest release)-9424-1-18-0-1163-1575581603 [Filename] Place (Fallout4 1.10.163 - latest release)-9424-1-18-0-1163-1575581603.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/9424/
+[Mod] Ponytail Hairstyles by Azar v2_5a - BA2 version-8126-2-5a [Filename] Ponytail Hairstyles by Azar v2_5a - BA2 version-8126-2-5a.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/8126/
+[Mod] Pride Flags 2023 - 2.0.2-24783-2-0-2-1697022642 [Filename] Pride Flags 2023 - 2.0.2-24783-2-0-2-1697022642.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/24783/
+[Mod] Private Military Company - CBBE Uniboob Bodyslide v2.0.0-43731-2-0-0-1583248461 [Filename] Private Military Company - CBBE Uniboob Bodyslide v2.0.0-43731-2-0-0-1583248461.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/43731/
+[Mod] Private Military Company Extended-44126-1-0-1585708954 [Filename] Private Military Company Extended-44126-1-0-1585708954.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/44126/
+[Mod] RPD Main - 2k-64875-1-0-1665105900 [Filename] RPD Main - 2k-64875-1-0-1665105900.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/64875/
+[Mod] Renovated Furniture 5.1 Archive Version-9463-5-1 [Filename] Renovated Furniture 5.1 Archive Version-9463-5-1.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/9463/
+[Mod] Respawnable Legendary Bosses - Rebalance Patch-39153-2-1-1558963409 [Filename] Respawnable Legendary Bosses - Rebalance Patch-39153-2-1-1558963409.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/39153/
+[Mod] Respawnable Legendary Bosses and Hard Legendary Giant Creatures v7.0-10124-7-0 [Filename] Respawnable Legendary Bosses and Hard Legendary Giant Creatures v7.0-10124-7-0.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/10124/
+[Mod] Retextured Water - by Ben Ephla-20399-0-1 [Filename] Retextured Water - by Ben Ephla-20399-0-1.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/20399/
+[Mod] Rifles Rebirth Main File (ESP version) v1.0a-61325-1-0a-1656439308 [Filename] Rifles Rebirth Main File (ESP version) v1.0a-61325-1-0a-1656439308.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/61325/
+[Mod] SIG MCX - 2K-52697-1-0-1625105768 [Filename] SIG MCX - 2K-52697-1-0-1625105768.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/52697/
+[Mod] STEALTH AND DETECTION SYSTEM 5(base  version)-62140-5-1660401047 [Filename] STEALTH AND DETECTION SYSTEM 5(base  version)-62140-5-1660401047.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/62140/
+[Mod] Scary Death Claws-44880-3-1-1589106439 [Filename] Scary Death Claws-44880-3-1-1589106439.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/44880/
+[Mod] SettlementMenuManagerMainFile-24204-0-1-7-1593282850 [Filename] SettlementMenuManagerMainFile-24204-0-1-7-1593282850.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/24204/
+[Mod] Simple Wait Anywhere-55597-1-1-1654075552 [Filename] Simple Wait Anywhere-55597-1-1-1654075552.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/55597/
+[Mod] Skeletal Adjustments for CBBE-39006-3-0-1652112684 [Filename] Skeletal Adjustments for CBBE-39006-3-0-1652112684.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/39006/
+[Mod] Start Me Up - Normal Dialogue Prompts - version 6.1-18946-6-1 [Filename] Start Me Up - Normal Dialogue Prompts - version 6.1-18946-6-1.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/18946/
+[Mod] Swimming ESL 1.0-62123-1-0-1657572230 [Filename] Swimming ESL 1.0-62123-1-0-1657572230.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/62123/
+[Mod] TAC - Archived v1.0 (Full 4K Version)-57869-1-0-1644107867 [Filename] TAC - Archived v1.0 (Full 4K Version)-57869-1-0-1644107867.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/57869/
+[Mod] Tactical Reload Framework-49444-1-1-1623428864 [Filename] Tactical Reload Framework-49444-1-1-1623428864.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/49444/
+[Mod] Tactical Weapon Foley - Equip Sounds Main File-63647-1-01-1661742639 [Filename] Tactical Weapon Foley - Equip Sounds Main File-63647-1-01-1661742639.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/63647/
+[Mod] Tactical outfit 4k-46356-1-4-1630337335 [Filename] Tactical outfit 4k-46356-1-4-1630337335.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/46356/
+[Mod] Textbox background shader fix for 3440x1440-48167-1-0-1603999354 [Filename] Textbox background shader fix for 3440x1440-48167-1-0-1603999354.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/48167/
+[Mod] This is Trash - A Scrapping Alternative-42552-1-8-1593561803 [Filename] This is Trash - A Scrapping Alternative-42552-1-8-1593561803.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/42552/
+[Mod] Unofficial Fallout 4 Patch-4598-2-1-5-1679096028 [Filename] Unofficial Fallout 4 Patch-4598-2-1-5-1679096028.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/4598/
+[Mod] ValDriftGerberPack-78252-TheGerbering-1707082685 [Filename] ValDriftGerberPack-78252-TheGerbering-1707082685.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/78252/
+[Mod] Visible Galaxy - Stars Sold Seperately-19127-1-0 [Filename] Visible Galaxy - Stars Sold Seperately-19127-1-0.7z [state] installed [link] https://www.nexusmods.com/fallout4/mods/19127/
+[Mod] WIA - Snipers and Shotguns Idle A-78555-1-0-1707547985 [Filename] WIA - Snipers and Shotguns Idle A-78555-1-0-1707547985.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/78555/
+[Mod] Weightless Junk and Other Items - NMM Installer - v1.2-2481-1-2 [Filename] Weightless Junk and Other Items - NMM Installer - v1.2-2481-1-2.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/2481/
+[Mod] XOF CVC Helmet - Archived v1.01-50936-1-01-1617291933 [Filename] XOF CVC Helmet - Archived v1.01-50936-1-01-1617291933.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/50936/
+[Mod] ZombiesArenaArcadeMode-26352-1-12 [Filename] ZombiesArenaArcadeMode-26352-1-12.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/26352/
+[Mod] m60_v2.0-33319-v2-0-1556321190 [Filename] m60_v2.0-33319-v2-0-1556321190.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/33319/
+[Mod] prkf 1.10.163.0-28822-1-10-163-0-1575573793 [Filename] prkf 1.10.163.0-28822-1-10-163-0-1575573793.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/28822/
+[Mod] M84 FlashBang.Main-56981-1-2-1641094651 [Filename] M84 FlashBang.Main-56981-1-2-1641094651.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/56981/
+[Mod] NAC X Legacy edition-46722-1-0-0-1596620706 [Filename] NAC X Legacy edition-46722-1-0-0-1596620706.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/46722/
+[Mod] TacticalTablet-EN-55346-2-1-1635579116 [Filename] TacticalTablet-EN-55346-2-1-1635579116.zip [state] installed
+[Mod] Addres Library-47327-1-10-163-0-1599728753 [Filename] Addres Library-47327-1-10-163-0-1599728753.zip [state] installed
+[Mod] xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868 [Filename] xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/33946/
+[Mod] Buffout 4-47359-1-28-6-1690000405 [Filename] Buffout 4-47359-1-28-6-1690000405.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/47359/
+[Mod] Armor and Weapon Keywords Community Resource v8.6.0-6091-v8-6-0-1578253623 [Filename] Armor and Weapon Keywords Community Resource v8.6.0-6091-v8-6-0-1578253623.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/6091/
+[Mod] Legendary Modification-4042-1-75 [Filename] Legendary Modification-4042-1-75.rar [state] installed [link] https://www.nexusmods.com/fallout4/mods/4042/
+[Mod] Legendary Modification - DLC (Automatron) (Far Harbor) (Nuka World) and Additional Fixes (ENG)-13864-2-92 [Filename] Legendary Modification - DLC (Automatron) (Far Harbor) (Nuka World) and Additional Fixes (ENG)-13864-2-92.zip [state] installed [link] https://www.nexusmods.com/fallout4/mods/13864/
