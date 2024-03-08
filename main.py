@@ -26,6 +26,7 @@ def display_tuple(tuple):
 
 
 file_location = input("Enter the txt file to load: ")
+# file_location = "./blah/test.txt"
 
 file = open(file_location, 'r')
 
