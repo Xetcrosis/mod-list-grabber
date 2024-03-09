@@ -22,10 +22,12 @@ def display_tuple(tuple):
     for lis in links_tuple:
         print("-------------------------------")
         for link in lis:
+            webbrowser.open(link)
             print(link)
 
 
 file_location = input("Enter the txt file to load: ")
+# ./blah/fallout4__19-02-2024_15-45-04.txt
 # file_location = "./blah/test.txt"
 
 file = open(file_location, 'r')
